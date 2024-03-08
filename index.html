@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador challenge Alura</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <script src="js/functions.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <header> 
+                <img src="texto.png" alt=""></header>
+        </div>
+        <div class="hero">
+            <p>Encriptador programado por <span class="destaque">Gustavo Ferreira </span> para o desafio Alura + One.</p>
+        </div>
+        <div class="text-area">
+            <div class="area">
+                <textarea name="colar" id="text-colar" cols="30" rows="10" placeholder="Digite aqui..."></textarea>
+            </div>
+            <div class="area">
+                <textarea name="copiar" id="text-copiar" cols="30" rows="10" placeholder="Resultado Aqui..." readonly></textarea>
+                <div class="icon-container">
+                    <i class="fa-solid fa-copy" id="copy-icon" onclick="copiar()"></i>
+                    <div class="tooltip" id="tooltip">Copiar</div>
+                </div>                
+            </div>            
+        </div>
+        <div class="btn-area">
+            <a href="#" class="btn-01" onclick="executar('criptografar')">
+                <p>Encriptografar Texto</p>
+            </a>
+            <a href="#" class="btn-02" onclick="executar('descriptografar')">
+                <p>Descriptografar Texto</p>
+            </a>
+        </div>
+        <div class="rodape">
+            <p>programado por <span class="destaque">Gustavo Ferreira </span></p>
+        </div>
+    </div>
+</body>
+</html>
