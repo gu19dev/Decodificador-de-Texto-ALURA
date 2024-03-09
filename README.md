@@ -75,17 +75,19 @@ Esta pasta contém arquivos que são acessíveis diretamente pelo navegador.
 4. Copie a URL do repositório.
 5. Digite o seguinte comando no terminal, substituindo `<URL-do-repositório>` pela URL que você copiou:
 
-\```
+```
 git clone <URL-do-repositório>
-\```
->  
+```
+> [!WARNING]  
+quando for executar os comandos, não use < > !!!!
+  
 quando for executar os comandos, não use < > !!!!
 
 6. Navegue até o diretório clonado:
 
-\```
+```
 cd <nome-do-repositório> 
-\```
+```
 > [!WARNING]  
 quando for executar os comandos, não use < > !!!!
 
