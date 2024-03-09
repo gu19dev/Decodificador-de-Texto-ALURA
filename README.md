@@ -38,6 +38,7 @@ O intuito do projeto é de criar uma página estilizada e adicionar um decodific
 ```
 
 ## 
+`./` - Essa parte indica que o "./" é a pasta raiz do projeto!
 
 `README.md`
 
