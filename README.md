@@ -81,7 +81,6 @@ git clone <URL-do-repositório>
 > [!WARNING]  
 quando for executar os comandos, não use < > !!!!
   
-quando for executar os comandos, não use < > !!!!
 
 6. Navegue até o diretório clonado:
 
