@@ -38,6 +38,7 @@ O intuito do projeto é de criar uma página estilizada e adicionar um decodific
 ```
 
 ## 
+`./` - Essa parte indica que o "./" é a pasta raiz do projeto!
 
 `README.md`
 
@@ -59,12 +60,14 @@ Esta pasta contém arquivos que são acessíveis diretamente pelo navegador.
 - `fonts`/`GlitchGoblin.ttf`: Esta é a fonte personalizada usada no site.
 - `image-header.png`: Esta é a imagem do cabeçalho do site.
 
+##
+
 <h2>Você pode adquirir o código deste projeto de diferentes maneiras:</h2>
 
 ### Baixando o repositório em zip
  Você pode baixar o repositório diretamente do GitHub em formato zip.
 
-##
+### <p>ou</p>
 
 ### Clonando o Repositório via Linha de Comando
  Para clonar o repositório e ter uma cópia do código em sua máquina local, siga estas etapas:
@@ -75,52 +78,20 @@ Esta pasta contém arquivos que são acessíveis diretamente pelo navegador.
 4. Copie a URL do repositório.
 5. Digite o seguinte comando no terminal, substituindo `<URL-do-repositório>` pela URL que você copiou:
 
-\```
-git clone <URL-do-repositório>
-\```
->  
-quando for executar os comandos, não use < > !!!!
-
-6. Navegue até o diretório clonado:
-
-\```
-cd <nome-do-repositório> 
-\```
-> [!WARNING]  
-quando for executar os comandos, não use < > !!!!
-
-
-Você pode adquirir o código deste projeto de diferentes maneiras:
-
-#### Baixando o repositório em zip
-
-### <p>ou</p>
-
-#### Clonando o Repositório via Linha de Comando
-
-Para clonar o repositório e ter uma cópia do código em sua máquina local, siga estas etapas:
-
-1. Certifique-se de ter o Git instalado em sua máquina.
-2. Abra seu terminal ou o Git Bash.
-3. Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
-4. Copie a URL do repositório.
-5. Digite o seguinte comando no terminal, substituindo `<URL-do-repositório>` pela URL que você copiou:
-
 ```
 git clone <URL-do-repositório>
 ```
 > [!WARNING]  
 quando for executar os comandos, não use < > !!!!
-6. Navegue até o diretório clonado:
-
-```
-cd <nome-do-repositório> 
-```
-> [!WARNING]  
-quando for executar os comandos, não use < > !!!!
-
   
 
+6. Navegue até o diretório clonado:
+
+```
+cd <nome-do-repositório> 
+```
+> [!WARNING]  
+quando for executar os comandos, não use < > !!!!
 
 ##
 
